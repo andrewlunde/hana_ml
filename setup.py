@@ -50,7 +50,7 @@ setup(
       long_description=long_description,
       install_requires=get_install_requires(),
       #extras_require=get_extras_require(),
-      keywords="sap hana-ml python",
+      keywords="sap hana_ml python",
       author="Andrew Lunde",
       author_email="andrew.lunde@sap.com",
       license="SAP Developer",
