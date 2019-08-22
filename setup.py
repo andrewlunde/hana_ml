@@ -1,4 +1,4 @@
-"""setup for hana-ml
+"""setup for hana_ml
 See:
 https://github.com/alundesap/hana_ml
 """
@@ -41,7 +41,7 @@ def get_extras_require():
 
 setup(
       # 
-      name="hana-ml",
+      name="hana_ml",
       version=get_version(),
       entry_points={"distutils.commands":
                     ["whitesource_update = plugin.WssPythonPlugin:SetupToolsCommand"]},
@@ -55,7 +55,7 @@ setup(
       author_email="andrew.lunde@sap.com",
       license="SAP Developer",
       url="https://github.com/alundesap/hana_ml",
-      package=['hana-ml'],
+      package=['hana_ml'],
       package_dir={'hana_ml': 'hana_ml'},
       package_data={'hana_ml': ['hana_ml',
                                '../pyhdbcli.abi3.so'
