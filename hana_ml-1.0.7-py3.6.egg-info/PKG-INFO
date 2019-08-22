@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: hana-ml
+Version: 1.0.7
+Summary: SAP HANA Python Client API for machine learning.
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=2.7
